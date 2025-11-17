@@ -38,7 +38,7 @@ The workflow includes:
 
 ## Dataset used 
 
-<a href="https://github.com/Kiranbr01/Hospital-Emergency-Romm-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">DATASET</a>
+<a href="https://github.com/Kiranbr01/Customers-shopping-behavior-data-analysis.....python-sql-powerbi/blob/main/customer_shopping_behavior.csv">DATASET</a>
 ---
 
 ## 🧹 3. Exploratory Data Analysis (Python)
@@ -54,4 +54,6 @@ The workflow includes:
 - Removed redundant column: `promo_code_used`
 - Loaded cleaned DataFrame into **PostgreSQL**
 
-### ✔ Example File Structure
+## Dashboard 
+<img width="1341" height="728" alt="Screenshot 2025-11-17 153356" src="https://github.com/user-attachments/assets/1fb57d74-bd79-4756-9992-969cd434bc8c" />
+
